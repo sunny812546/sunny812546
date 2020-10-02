@@ -1,4 +1,4 @@
-[![Website]
+
 ## I'm a Enthusiastic Coder & Developer!
 
 
@@ -37,10 +37,11 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 
 <br/>
-[website]: https://optimistic-developer2128.netlify.app/
-[youtube]: https://www.youtube.com/channel/UCBwAp1F2FgWJ9B_9nWcxmag
-[instagram]: https://www.instagram.com/armaan_khan2809/
-[linkedin]: https://www.linkedin.com/in/armaan-khan-22231b192/
+
+
+[instagram]: https://www.instagram.com/_beast_beard/
+[linkedin]: https://www.linkedin.com/in/sunny-patel-45a1361b0/
+
 
 [![Armaan's github stats](https://github-readme-stats.vercel.app/api?username=sunny812546&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/sunny812546)
 
@@ -51,4 +52,4 @@
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sunny812546&repo=Event-Countdown-Timer&theme=algolia&show_owner=true)](https://github.com/sunny812546/Event-Countdown-Timer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sunny812546&repo=Intership-Studio-ML-Project&theme=algolia&show_owner=true)](https://github.com/sunny812546/Intership-Studio-ML-Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sunny812546&repo=Intership-Studio-ML-Project&theme=algolia&show_owner=true)](https://github.com/sunny812546/)
